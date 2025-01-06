@@ -1,4 +1,4 @@
 # Demo--Git-Github
 This is my first Git Repo
 <br>
-Author - Shubham Raikar
+Author - Shubham U Raikar
